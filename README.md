@@ -14,7 +14,7 @@ https://sales-predicition-portal.netlify.app
 
 # To run on local
 ```bash
- git clone https://github.com/BhaveyM/Sales-prediciton-and-analysis-portal
+ git clone https://github.com/ujjwall9837/sales_analysis
 ```
 ```bash
  npm install
